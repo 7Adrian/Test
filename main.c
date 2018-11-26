@@ -14,7 +14,7 @@ int zliczanie(char *w1)
 int policz(char *w1, char *w2)
 {
 //    if (*)
-    printf("Hello GIT");
+    printf("Hello GIT :/");
 
 }
 
